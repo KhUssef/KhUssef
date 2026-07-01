@@ -96,6 +96,18 @@ Deep learning model for fabric pattern recognition using CNNs.
 </details>
 
 <details open>
+<summary><b>LLMs & Agentic AI</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+</p>
+</details>
+
+<details open>
 <summary><b>Machine Learning & Data Science</b></summary>
 <br>
 <p align="left">
