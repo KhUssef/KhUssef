@@ -17,53 +17,72 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-### 🚀 Current Focus
+### Current Focus
 
-- 🤖 Working on **LLM systems**
-- 🔐 Learning **Cybersecurity**
-- 💻 Strong interest in **Backend Engineering & Machine Learning**
-- 🎓 Currently enrolled at **National Institute of Applied Science and Technology (INSAT)**
-- 📫 Contact: **khalifayoussef628@gmail.com**
-- ⚡ Fun fact: **I enjoy understanding how things work internally — from neural networks to operating systems.**
+- Working on **LLM systems**
+- Learning **Cybersecurity**
+- Strong interest in **Backend Engineering & Machine Learning**
+- Currently enrolled at **National Institute of Applied Science and Technology (INSAT)**
+- Contact: **khalifayoussef628@gmail.com**
+- Fun fact: **I enjoy understanding how things work internally — from neural networks to operating systems.**
 
 <br clear="right"/>
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 CNN Fabric Classification
+### QuantumBoard
+**Multi-Agent LLM System**
+
+Blackboard multi-agent system that designs, executes, verifies, and autonomously debugs quantum circuits from a plain-English goal — then runs them on real IBM hardware.
+
+`Python` `Qiskit` `FastAPI` `React`
+
+[View Project](https://github.com/KhUssef/quantumborad)
+
+</td>
+<td width="50%">
+
+### Multi-Agent Travel Planner
+**Multi-Agent LLM System**
+
+Turns a casual travel request into a complete day-by-day itinerary, backed by semantic search over thousands of destinations plus live hotel, flight, and weather data.
+
+`Python` `FastAPI` `FAISS` `n8n` `Next.js`
+
+[View Project](https://github.com/KhUssef/travel-planner)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### CNN Fabric Classification
 **AI/ML Project**
 
 Deep learning model for fabric pattern recognition using CNNs.
 
-🔗 [View Project](https://github.com/KhUssef/weefizz/)
+[View Project](https://github.com/KhUssef/weefizz/)
 
 </td>
-<!-- <td width="50%">
-
-### 🚀 [Your Current Project Title]
-**Currently Working On**
-
-[Brief description of what you're building]
-
-🔗 [View Project](https://github.com/yourusername/your-project)
-</td> -->
+<td width="50%">
+</td>
 </tr>
 </table>
 
-📄 **Know more about my experience:** [View My Resume](./youssefkhalifaResume.pdf)
+**Know more about my experience:** [View My Resume](./youssefkhalifaResume.pdf)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>🔤 Programming Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -77,7 +96,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 </details>
 
 <details open>
-<summary><b>🤖 Machine Learning & Data Science</b></summary>
+<summary><b>Machine Learning & Data Science</b></summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -89,7 +108,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Frameworks</b></summary>
+<summary><b>Backend & Frameworks</b></summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
@@ -100,7 +119,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 </details>
 
 <details open>
-<summary><b>💾 Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -110,7 +129,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 </details>
 
 <details open>
-<summary><b>🔧 Tools & DevOps</b></summary>
+<summary><b>Tools & DevOps</b></summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -122,7 +141,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhUssef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
@@ -140,7 +159,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 ---
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -161,7 +180,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
