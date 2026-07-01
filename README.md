@@ -7,7 +7,7 @@
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=KhUssef&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" /> -->
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems-blue?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=flat-square" alt="learning" />
+  <img src="https://img.shields.io/badge/Learning-MLOps%20%26%20Deployment-red?style=flat-square" alt="learning" />
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 ### Current Focus
 
 - Working on **LLM systems**
-- Learning **Cybersecurity**
+- Learning **MLOps & Deployment**
 - Strong interest in **Backend Engineering & Machine Learning**
 - Currently enrolled at **National Institute of Applied Science and Technology (INSAT)**
 - Contact: **khalifayoussef628@gmail.com**
