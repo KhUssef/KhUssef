@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Junior+Software+Engineering+Student;%40+National+Institute+of+Applied+Science+and+Technology" alt="Typing SVG" />
 
 <p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=KhUssef&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=KhUssef&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems-blue?style=flat-square" alt="focus" />
   <img src="https://img.shields.io/badge/Learning-MLOps%20%26%20Deployment-red?style=flat-square" alt="learning" />
 </p>
@@ -156,8 +156,8 @@ Deep learning model for fabric pattern recognition using CNNs.
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhUssef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhUssef&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=KhUssef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KhUssef&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -165,7 +165,7 @@ Deep learning model for fabric pattern recognition using CNNs.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhUssef&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/2E97F7/KhUssef" alt="Contribution Graph" />
 </div>
 
 ---
